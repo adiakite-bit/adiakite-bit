@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Abdoulaye
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning ML, automation and other topics related..
-- 💞️ I’m looking to collaborate on projects of the kind
-- 📫 How to reach me at viccini@live.fr
+👋 Hi, I’m Abdoulaye
+I’m interested in Data science.
+I’m currently learning ML, automation and other topics related.. and I’m looking to collaborate on projects of the kind.
+
+📫 You can reach me at viccini@live.fr
 
 <!---
 adiakite-bit/adiakite-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
